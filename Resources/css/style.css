@@ -5,7 +5,7 @@
 }
 
 html {
-    background-color: rgb(243, 12, 12);
+    background-color:  #FFE2BA;
     color: rgb(0, 0, 0);
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
@@ -14,5 +14,14 @@ html {
 }
 
 header {
-    background-color: blueviolet;
+   
+    background-image: linear-gradient(rgba(255,208,143,.5), rgba(255,180, 76,.5)),url(../Images/vecteezy_cute-teddy-bear-isolated-on-white-background_1430190.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+  
+}
+
+h1 {
+    
 }
