@@ -23,5 +23,51 @@ header {
 }
 
 h1 {
-    
+    color: #E95F25;
+    float: right;
+    margin-right: 100px;
+}
+
+.row {
+    max-width: 1140px;
+}
+
+.nav {
+    height: 20px;
+}
+
+.main-nav {
+    float: right;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+    color: #E95F25;
+
+}
+
+.logo {
+    border-radius: 50px;
+    margin: 10px 0 0 20px;
+}
+
+/*******featured section ********/
+
+.featuredStuff {
+    background-color: #FFCEBA;
+}
+
+.featuredStuff .row {
+    height: 900px;
+    max-width: 1140px
+}
+
+.featured {
+    background-color: blanchedalmond;
+    display: inline-block;
+    height: 400px;
+    width: 18%;
+   
 }
